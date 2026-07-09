@@ -1,5 +1,6 @@
 _site
 materials/
+.claude/
 .bundle
 .DS_store
 .idea

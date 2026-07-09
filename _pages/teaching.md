@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses taught, invited lectures, and student supervision.
 nav: true
 nav_order: 6
