@@ -1,4 +1,5 @@
 _site
+materials/
 .bundle
 .DS_store
 .idea

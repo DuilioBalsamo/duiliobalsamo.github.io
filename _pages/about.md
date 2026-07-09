@@ -2,33 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, Bocconi University (DONDENA · BIDSA · HEAL)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Via Popoli Uniti 8</p>
+    <p>Milan, 20125, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational social scientist with a background in complex systems and data science. My research focuses on understanding how interactions in digitally mediated environments shape health-related behaviours and decisions — from public health monitoring and online communities, to trust and vaccination attitudes, to human interactions with AI systems. By combining computational methods, behavioural research, and experience with large-scale digital data, I aim to produce empirical knowledge capable of informing decision-making in complex sociotechnical systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since 2022, I have been a postdoctoral researcher at [Bocconi University](https://www.unibocconi.eu/), affiliated with the [DONDENA Centre for Research on Social Dynamics and Public Policy](https://dondena.unibocconi.eu/), the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://bidsa.unibocconi.eu/), and the Health Emergencies Analytics Lab (HEAL). I work on the ERC Consolidator Grant **IMMUNE**, studying individual and collective behaviour in the context of infectious disease spread using machine learning, network science, and natural language processing applied to survey data, digital trace data, and social media. Within this project I have led survey design and coordination of a large cross-national survey on vaccination behaviour, information-seeking patterns, trust, and public opinion, and I have more recently extended this work toward understanding trust formation in AI-generated health information. I also engage with EU regulatory frameworks governing data and AI — including the GDPR, DSA, and the AI Act.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before Bocconi, I completed a Ph.D. in Modeling and Data Science (2019–2021) between the University of Turin and the [ISI Foundation](https://www.isi.it/), studying complex social dynamics among people experiencing opioid addiction who share their experiences on Reddit — investigating adoption patterns, routes of administration, peer support mechanisms, and recovery trajectories within online communities using computational social science and natural language processing.
