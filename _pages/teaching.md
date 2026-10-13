@@ -22,7 +22,7 @@ nav_order: 6
 Supervision and mentoring of master's students, research fellows, and early-career researchers in computational social science and data science.
 
 - **2026** — Co-supervisor (with Yelena Mejova), Lagrange Fellow Arianna Longo, ISI Foundation: "Trusting the Machine: Health information seeking and trust formation in Large Language Models."
-- **2025–2026** — Co-supervisor (with Yelena Mejova), Lagrange Fellow Davide Fallara, ISI Foundation: "Trust and authority signals in COVID-19 vaccination content on TikTok."
+- **2025–2026** — Co-supervisor (with Yelena Mejova), Lagrange Fellow Davide Fallara, ISI Foundation: "Who Calls the Shots? A Multi-country Study of Authority in the Vaccination Discourse on TikTok."
 - **2025** — Master's thesis tutor, MSc in Data Science and Business Analytics, Bocconi University (supervisor: Alessia Melegaro): 
     - Davide Muratori, "YouTube exposure and vaccination decisions: evidence from linked survey and digital trace data"
     - Arianna Zottoli, "Graph Neural Network–Based Social Recommender Systems: Echo Chambers and Polarization on Reddit."
